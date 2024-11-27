@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineering student</h3>
 <img align="center" alt="Coding" width=400 src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalekhbioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalekhbioui" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzalekhbioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalekhbioui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzalekhbioui" alt="hamzalekhbioui" /></a> </p>
 
