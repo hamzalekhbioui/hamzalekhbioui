@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGGr2s_3GuHVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347310424?e=1738195200&v=beta&t=L3od1RlL0QiCofJCGvHFC8lrr0JXIc6Z5jcnxX7Fwoc)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGGr2s_3GuHVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347310424?e=1738195200&v=beta&t=L3od1RlL0QiCofJCGvHFC8lrr0JXIc6Z5jcnxX7Fwoc)
 <h1 align="center">Hi 👋, I'm LEKHBIOUI Hamza</h1>
 <h3 align="center">A passionate software engineering student from Morocco! 🌍</h3>
 <img align="center" alt="Coding" width=400 src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"
