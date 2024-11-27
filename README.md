@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img align="center" alt="Coding" width=400 src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"
+<p><img align="center" alt="Coding" width=400 src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzalekhbioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalekhbioui" /> </p>
 
