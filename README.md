@@ -27,4 +27,4 @@ er![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGGr2s_3GuHVw/profile
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzalekhbioui&show_icons=true&locale=en&layout=compact" alt="hamzalekhbioui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalekhbioui&" alt="hamzalekhbioui" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalekhbioui&" alt="hamzalekhbioui" /></p>
